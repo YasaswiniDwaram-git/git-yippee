@@ -8,3 +8,6 @@
 # Egg Maggi
 * veg maggi
 * 2 cracked eggs
+
+# Special Dosa
+* Dosa batter
