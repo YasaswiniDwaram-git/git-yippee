@@ -11,4 +11,5 @@
 
 # Special Dosa
 * Dosa batter
-* added masala
+* masala
+* podi
